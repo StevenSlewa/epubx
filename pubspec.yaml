@@ -1,7 +1,6 @@
 name: epubx
 description: Epub Parser for Dart. Epub package fork. Suitable for use on the Server, the Web, or in Flutter
-homepage: https://github.com/rbcprolabs/epubx.dart
-issue_tracker: https://github.com/rbcprolabs/epubx.dart
+homepage: https://github.com/StevenSlewa/epubx
 version: 4.0.1
 
 environment:
